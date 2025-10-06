@@ -1,0 +1,7 @@
+torch>=2.0.0
+opencv-python
+numpy
+pandas
+pillow
+pytesseract
+streamlit
